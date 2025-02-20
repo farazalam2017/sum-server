@@ -1,4 +1,4 @@
-# Sum Server for Harkirat Cohort
+# Sum Server of Harkirat Cohort
 
 A simple Express.js server deployed on Render to provide various API functionalities such as fetching todos, calculating sums, interest, and generating random notifications.
 
